@@ -1,0 +1,21 @@
+# Initialize a Git repository in your project directory:
+git init
+# Configure your username and email:
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# Clone an existing repository:
+git clone <repository_url>
+# Check the status of your repository (e.g., to see changes):
+git status
+# View your current branch:
+git branch
+
+# Add files to the staging area (preparing them for commit):
+git add <file_name>
+# Or add all changed files:
+git add .
+# Commit changes in the staging area with a descriptive message:
+git commit -m "Your commit message"
+# View the commit history:
+git log
