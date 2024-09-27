@@ -1,0 +1,2 @@
+- Understanding test case management tools: https://katalon.com/resources-center/blog/test-case-management
+Katalon TestOps integrates seamlessly with Katalon Studio for managing and analyzing tests.

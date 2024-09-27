@@ -1,0 +1,3 @@
+- Understanding Testing Methodologies
+- Learning about Agile Testing
+- Exploring different types of testing (Functional, Non-Functional)
